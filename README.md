@@ -1,0 +1,1 @@
+## Descrizione progetto Loyalty Platform
