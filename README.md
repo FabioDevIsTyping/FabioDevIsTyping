@@ -30,11 +30,11 @@
 ### :woman_technologist: About Me :
 I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Italy.
 
-- :telescope: I’m currently a third year Computer Science student at University Of Camerino.
+- :telescope: I’m currently a fist year Computer Science student at University Of Camerino, pursuing a master degree in Business Informatics and Data Science.
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on LeetCode and read tech articles.
+- :zap: In my free time, I try to get knowledge about Data & ML on kaggle and scientific papers.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/fabio-michele-de-vitis-310339278/)https://www.linkedin.com/in/fabio-michele-de-vitis-310339278/)
 - Languages I have used in the past:
